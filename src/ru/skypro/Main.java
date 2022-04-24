@@ -3,6 +3,7 @@ package ru.skypro;
 public class Main {
 
     public static void main(String[] args) {
+        //Задание 6.
         int age =19 ;
         int salary =58_000 ;
         if(age>=23) {
